@@ -1,0 +1,12 @@
+
+.banner-text{
+font-size:22px;
+padding:20px;
+padding-left:450px;
+color: green;
+font-weight: bold;
+}
+.banner-text:hover {
+    background-color: #4CAF50; 
+    color: white;
+  }
